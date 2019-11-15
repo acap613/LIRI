@@ -1,0 +1,19 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface app created to search Spotify for songs, Bands in Town for concerts, and OMDB for movies.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acap613/LIRI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acap613/LIRI/issues"
+  },
+  "homepage": "https://github.com/acap613/LIRI#readme"
+}
