@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/acap613/LIRI/issues"
   },
-  "homepage": "https://github.com/acap613/LIRI#readme"
+  "homepage": "https://github.com/acap613/LIRI#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  },
+  "devDependencies": {}
 }
