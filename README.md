@@ -11,6 +11,8 @@ COMMANDS- ( * type the following in bash/terminal to see what happens!)
 
  * node liri.js "do-what-it-says"
 
- Some Screenshots of m
+ Screenshot of my "concert-this"
 
 
+
+![alt text](../images/concert.png?raw=true)
