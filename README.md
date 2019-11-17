@@ -13,6 +13,17 @@ COMMANDS- ( * type the following in bash/terminal to see what happens!)
 
  Screenshot of my "concert-this"
 
-
-
 ![alt text](./images/concert.png?raw=true)
+
+Screenshot of my "spotify-this-song"
+
+![alt text](./images/spotify.png?raw=true)
+
+ Screenshot of my "movie-this"
+
+![alt text](./images/omdb.png?raw=true)
+
+Screenshot of my "do-what-it-says"
+
+![alt text](./images/bsboys.png?raw=true)
+
