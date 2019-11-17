@@ -15,4 +15,4 @@ COMMANDS- ( * type the following in bash/terminal to see what happens!)
 
 
 
-![alt text](../images/concert.png?raw=true)
+![alt text](./images/concert.png?raw=true)
